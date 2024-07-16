@@ -1,8 +1,15 @@
 # tok_tik_flutter
 
-## Cómo instalar dependencias
+A tik tok clone! Welcome to tok tik.
 
-1. Abrir la paleta de comandos
-2. Escribir `pubasi`
-3. Luego escibir, por ejemplo, provider
-4. Sería una forma rápida de instalar el gestor de estado
+<p align="center">
+    <img src="https://i.imgur.com/2aZTVHt.jpeg" width="260" height="500" title="Application UI">
+    <img src="https://i.imgur.com/hXYZSSY.jpeg" width="260" height="500" title="Application UI">
+</p>
+
+## How to run the project
+
+### Development
+
+1. Clone the repository
+2. Install dependencies with `flutter pub get`
